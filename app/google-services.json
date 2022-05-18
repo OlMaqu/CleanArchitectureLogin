@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787446156432",
+    "project_id": "cleanlogin-e9a34",
+    "storage_bucket": "cleanlogin-e9a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787446156432:android:f32a5673ad7966e0f0dc15",
+        "android_client_info": {
+          "package_name": "com.maylbus.collectives.cleanarchitecturelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787446156432-kl03jig11ucjgo70q7785fr4snk7ripk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maylbus.collectives.cleanarchitecturelogin",
+            "certificate_hash": "269ee735e4a8d9b3c8f92361d0914fb033c58470"
+          }
+        },
+        {
+          "client_id": "787446156432-n6rjl0unhs75u9lerdvams8dl1aju5qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUfcYBf84zyC1gc0WsMMCydZdYDujfJJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787446156432-n6rjl0unhs75u9lerdvams8dl1aju5qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
